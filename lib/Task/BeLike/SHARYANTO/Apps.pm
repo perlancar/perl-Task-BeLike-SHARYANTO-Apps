@@ -31,6 +31,8 @@ RJBS, so blame him if you want :-)
 
 =pkg App::Options
 
+=pkh App::perlmv
+
 =pkg autodie
 
 =pkg Carp::Always
@@ -38,6 +40,10 @@ RJBS, so blame him if you want :-)
 =pkg Crypt::PasswdMD5
 
 =pkg Data::Dump
+
+=pkg Data::Dump::Partial
+
+=pkg Data::Dump::PHP
 
 =pkg Data::Schema
 
@@ -120,7 +126,7 @@ RJBS, so blame him if you want :-)
 
 =pkg Term::ReadLine
 
-=pkg Text::Unaccent
+=pkg Text::Unaccent::PurePerl
 
 =pkg Tie::Cache
 
