@@ -149,3 +149,5 @@ RJBS, so blame him if you want :-)
 =pkg YAML::XS
 
 =cut
+
+1;
