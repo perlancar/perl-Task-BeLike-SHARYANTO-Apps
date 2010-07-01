@@ -31,7 +31,7 @@ RJBS, so blame him if you want :-)
 
 =pkg App::Options
 
-=pkh App::perlmv
+=pkg App::perlmv
 
 =pkg autodie
 
