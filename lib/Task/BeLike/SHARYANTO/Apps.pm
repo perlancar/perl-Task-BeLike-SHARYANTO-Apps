@@ -29,11 +29,15 @@ RJBS, so blame him if you want :-)
 
 =pkg Algorithm::BinPack
 
+=pkg Any::Moose
+
 =pkg App::Options
 
 =pkg App::perlmv
 
 =pkg autodie
+
+=pkg Capture::Tiny
 
 =pkg Carp::Always
 
@@ -44,6 +48,8 @@ RJBS, so blame him if you want :-)
 =pkg Data::Dump::Partial
 
 =pkg Data::Dump::PHP
+
+=pkg Data::ModeMerge
 
 =pkg Data::Schema
 
@@ -63,11 +69,17 @@ RJBS, so blame him if you want :-)
 
 =pkg Email::Address
 
+=pkg File::Chdir
+
+=pkg File::Flock
+
 =pkg File::HomeDir
 
 =pkg File::Slurp
 
 =pkg File::Type
+
+=pkg File::Which
 
 =pkg Finance::Bank::ID::BCA
 
@@ -106,6 +118,12 @@ RJBS, so blame him if you want :-)
 
 =pkg MIME::Parser
 
+=pkg Module::CoreList
+
+=pkg Moose
+
+=pkg Mouse
+
 =pkg MP3::Tag
 
 =pkg Net::BitTorrent::File
@@ -121,6 +139,8 @@ RJBS, so blame him if you want :-)
  REST::Google, also contains REST::Google::Search
 
 =pkg Statistics::Descriptive
+
+=pkg String::ShellQuote
 
 =pkg Term::ReadKey
 
