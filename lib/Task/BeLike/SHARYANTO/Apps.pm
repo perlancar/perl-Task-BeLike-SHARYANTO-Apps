@@ -69,7 +69,7 @@ RJBS, so blame him if you want :-)
 
 =pkg Email::Address
 
-=pkg File::Chdir
+=pkg File::chdir
 
 =pkg File::Flock
 
