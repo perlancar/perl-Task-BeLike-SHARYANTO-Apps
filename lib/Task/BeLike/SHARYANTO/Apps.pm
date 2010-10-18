@@ -45,6 +45,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Data::Dump
 
+=pkg Data::Dump::OneLine
+
 =pkg Data::Dump::Partial
 
 =pkg Data::Dump::PHP
