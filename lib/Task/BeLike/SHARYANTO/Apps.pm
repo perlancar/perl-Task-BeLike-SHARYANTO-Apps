@@ -51,6 +51,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Data::Dump::PHP
 
+=pkg Data::Format::Pretty::Console
+
 =pkg Data::ModeMerge
 
 =pkg Data::Schema
@@ -151,6 +153,8 @@ RJBS, so blame him if you want :-)
 =pkg Text::Unaccent::PurePerl
 
 =pkg Tie::Cache
+
+=pkg Try::Tiny
 
 =pkg URI
 
