@@ -65,6 +65,8 @@ RJBS, so blame him if you want :-)
 
 =pkg DateTime::Format::DateManip
 
+=pkg DateTime::Format::MySQL
+
 =pkg DBD::SQLite
 
 =pkg DBI
@@ -131,6 +133,8 @@ RJBS, so blame him if you want :-)
 =pkg MP3::Tag
 
 =pkg Net::BitTorrent::File
+
+=pkg Number::Format
 
 =pkg Path::Class
 
