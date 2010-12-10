@@ -33,6 +33,8 @@ RJBS, so blame him if you want :-)
 
 =pkg App::Options
 
+=pkg App::cpanminus
+
 =pkg App::perlmv
 
 =pkg autodie
