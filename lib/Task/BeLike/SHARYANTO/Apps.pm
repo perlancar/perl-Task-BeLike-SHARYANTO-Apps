@@ -138,6 +138,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Number::Format
 
+=pkg Package::Alias
+
 =pkg Path::Class
 
 =pkg Proc::PID::File
