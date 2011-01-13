@@ -43,6 +43,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Carp::Always
 
+=pkg CPAN::Mini
+
 =pkg Crypt::PasswdMD5
 
 =pkg Data::Dump
