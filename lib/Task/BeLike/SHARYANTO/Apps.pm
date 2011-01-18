@@ -35,6 +35,8 @@ RJBS, so blame him if you want :-)
 
 =pkg App::cpanminus
 
+=pkg App::FatPacker
+
 =pkg App::perlmv
 
 =pkg autodie
