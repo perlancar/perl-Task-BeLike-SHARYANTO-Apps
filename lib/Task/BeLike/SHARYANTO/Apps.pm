@@ -33,10 +33,6 @@ RJBS, so blame him if you want :-)
 
 =pkg App::Options
 
-=pkg App::cpanminus
-
-=pkg App::FatPacker
-
 =pkg App::perlmv
 
 =pkg autodie
@@ -44,8 +40,6 @@ RJBS, so blame him if you want :-)
 =pkg Capture::Tiny
 
 =pkg Carp::Always
-
-=pkg CPAN::Mini
 
 =pkg Crypt::PasswdMD5
 
@@ -129,8 +123,6 @@ RJBS, so blame him if you want :-)
 =pkg Mail::Sendmail
 
 =pkg MIME::Parser
-
-=pkg Module::CoreList
 
 =pkg Moose
 
