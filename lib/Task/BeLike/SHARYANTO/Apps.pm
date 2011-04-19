@@ -63,6 +63,8 @@ RJBS, so blame him if you want :-)
 
 =pkg DateTime
 
+=pkg DateTime::BusinessHours
+
 =pkg DateTime::Format::DateManip
 
 =pkg DateTime::Format::MySQL
@@ -81,7 +83,11 @@ RJBS, so blame him if you want :-)
 
 =pkg File::HomeDir
 
+=pkg File::RsyBak
+
 =pkg File::Slurp
+
+=pkg File::Slurp::Shortcuts
 
 =pkg File::Type
 
@@ -90,6 +96,8 @@ RJBS, so blame him if you want :-)
 =pkg Finance::Bank::ID::BCA
 
 =pkg Finance::Bank::ID::Mandiri
+
+=pkg Git::Bunch
 
 =pkg HTML::Parser
 
@@ -149,6 +157,8 @@ RJBS, so blame him if you want :-)
 =pkg Statistics::Descriptive
 
 =pkg String::ShellQuote
+
+=pkg Sub::Spec::BashComplete
 
 =pkg Term::ReadKey
 
