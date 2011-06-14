@@ -132,6 +132,10 @@ RJBS, so blame him if you want :-)
 
 =pkg MIME::Parser
 
+=pkg Mojo::DOM
+
+=pkg Moo
+
 =pkg Moose
 
 =pkg Mouse
