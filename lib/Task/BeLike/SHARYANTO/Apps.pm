@@ -83,6 +83,8 @@ RJBS, so blame him if you want :-)
 
 =pkg File::HomeDir
 
+=pkg File::LibMagic
+
 =pkg File::RsyBak
 
 =pkg File::Slurp
@@ -90,6 +92,8 @@ RJBS, so blame him if you want :-)
 =pkg File::Slurp::Shortcuts
 
 =pkg File::Type
+
+ Depcecated, will be replaced by File::LibMagic exclusively in the future.
 
 =pkg File::Which
 
@@ -129,6 +133,8 @@ RJBS, so blame him if you want :-)
 =pkg Mail::Sender
 
 =pkg Mail::Sendmail
+
+=pkg Media::Type::Simple
 
 =pkg MIME::Parser
 
