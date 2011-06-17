@@ -164,6 +164,8 @@ RJBS, so blame him if you want :-)
 
  REST::Google, also contains REST::Google::Search
 
+=pkg SHARYANTO::Utils
+
 =pkg Statistics::Descriptive
 
 =pkg String::ShellQuote
