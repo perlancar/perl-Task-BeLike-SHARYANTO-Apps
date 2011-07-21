@@ -63,8 +63,6 @@ RJBS, so blame him if you want :-)
 
 =pkg DateTime
 
-=pkg DateTime::BusinessHours
-
 =pkg DateTime::Format::DateManip
 
 =pkg DateTime::Format::MySQL
