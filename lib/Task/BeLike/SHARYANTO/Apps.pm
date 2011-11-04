@@ -31,9 +31,19 @@ RJBS, so blame him if you want :-)
 
 =pkg Any::Moose
 
+# =pkg App::IniUtils
+
+# =pkg App::LedgerUtils
+
 =pkg App::Options
 
+=pkg App::OrgUtils
+
 =pkg App::perlmv
+
+=pkg App::SerializeUtils
+
+=pkg App::TimeTracker
 
 =pkg autodie
 
@@ -70,6 +80,8 @@ RJBS, so blame him if you want :-)
 =pkg DBD::SQLite
 
 =pkg DBI
+
+=pkg Devel::Platform::Info
 
 =pkg Digest::CRC
 
