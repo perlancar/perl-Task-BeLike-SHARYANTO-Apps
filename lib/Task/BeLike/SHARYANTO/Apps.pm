@@ -53,6 +53,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Crypt::PasswdMD5
 
+=pkg Dancer
+
 =pkg Data::Dump
 
 =pkg Data::Dump::OneLine
@@ -129,6 +131,8 @@ RJBS, so blame him if you want :-)
  libwww-perl, also contains LWP::Simple, HTTP::*, etc.
 
 =pkg Lingua::Han::PinYin
+
+=pkg Lingua::ZH::WordSegmenter
 
 =pkg List::MoreUtils
 
