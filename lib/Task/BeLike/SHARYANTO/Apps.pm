@@ -1,29 +1,32 @@
 package Task::BeLike::SHARYANTO::Apps;
-# ABSTRACT: Install modules currently used in all SHARYANTO's current applications
+
+# VERSION
+
+1;
+# ABSTRACT: Install modules currently used in SHARYANTO's applications
 
 =head1 DESCRIPTION
 
 This task will install modules currently used in all my current
-applications. Not included are modules:
+applications. Not included are:
 
 =over 4
 
-=item * already in 5.10 core;
+=item * modules already in 5.10 core;
 
-=item * used in development (see L<Task::BeLike::SHARYANTO::Devel>);
+=item * modules used in development (see L<Task::BeLike::SHARYANTO::Devel>);
 
-=item * required by my very specific applications;
+=item * modules required by my very specific applications;
 
-=item * required by my old/obsolete applications;
+=item * modules required by my old/obsolete applications;
+
+=item * other Task:: modules;
 
 =back
 
-The purpose of this distribution is to make it easy to setup an
-environment with all my required/preferred modules. Thus, this
-distribution is probably only useful to me or people who use my
-applications. I apologize if the existence of this distribution on
-CPAN annoys you. In my defense, I am just following a trend started by
-RJBS, so blame him if you want :-)
+The purpose of this distribution is to make it easy to setup an environment with
+all my required/preferred modules. Thus, this distribution is probably only
+useful to me or people who use my applications.
 
 =pkgroup Included modules
 
@@ -113,6 +116,8 @@ RJBS, so blame him if you want :-)
 
 =pkg Finance::Bank::ID::Mandiri
 
+=pkg Finance::Quote::Convert::WebserviceX
+
 =pkg Git::Bunch
 
 =pkg HTML::Parser
@@ -201,6 +206,8 @@ RJBS, so blame him if you want :-)
  URI, also contains URI::Escape
 
 =pkg URI::Find
+
+=pkg UUID::Random
 
 =pkg WWW::Mechanize
 
