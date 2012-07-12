@@ -7,12 +7,14 @@ package Task::BeLike::SHARYANTO::Apps;
 
 =head1 DESCRIPTION
 
-This task will install modules currently used in all my current
-applications. Not included are:
+This task will install modules currently used in all my current applications.
+Not included are:
 
 =over 4
 
 =item * modules already in 5.10 core;
+
+=item * modules written by me (see L<Task::BeLike::SHARYANTO::Authored>);
 
 =item * modules used in development (see L<Task::BeLike::SHARYANTO::Devel>);
 
@@ -36,15 +38,7 @@ useful to me or people who use my applications.
 
 # =pkg App::IniUtils
 
-# =pkg App::LedgerUtils
-
 =pkg App::Options
-
-=pkg App::OrgUtils
-
-=pkg App::perlmv
-
-=pkg App::SerializeUtils
 
 =pkg App::TimeTracker
 
@@ -59,18 +53,6 @@ useful to me or people who use my applications.
 =pkg Dancer
 
 =pkg Data::Dump
-
-=pkg Data::Dump::OneLine
-
-=pkg Data::Dump::Partial
-
-=pkg Data::Dump::PHP
-
-=pkg Data::Format::Pretty::Console
-
-=pkg Data::ModeMerge
-
-=pkg Data::Schema
 
 =pkg Date::Manip
 
@@ -100,11 +82,7 @@ useful to me or people who use my applications.
 
 =pkg File::LibMagic
 
-=pkg File::RsyBak
-
 =pkg File::Slurp
-
-=pkg File::Slurp::Shortcuts
 
 =pkg File::Type
 
@@ -112,13 +90,7 @@ useful to me or people who use my applications.
 
 =pkg File::Which
 
-=pkg Finance::Bank::ID::BCA
-
-=pkg Finance::Bank::ID::Mandiri
-
 =pkg Finance::Quote::Convert::WebserviceX
-
-=pkg Git::Bunch
 
 =pkg HTML::Parser
 
@@ -140,8 +112,6 @@ useful to me or people who use my applications.
 =pkg Lingua::ZH::WordSegmenter
 
 =pkg List::MoreUtils
-
-=pkg Log::Any::App
 
 =pkg Mail::Internet
 
@@ -183,13 +153,9 @@ useful to me or people who use my applications.
 
  REST::Google, also contains REST::Google::Search
 
-=pkg SHARYANTO::Utils
-
 =pkg Statistics::Descriptive
 
 =pkg String::ShellQuote
-
-=pkg Sub::Spec::BashComplete
 
 =pkg Term::ReadKey
 
@@ -222,5 +188,3 @@ useful to me or people who use my applications.
 =pkg YAML::XS
 
 =cut
-
-1;
