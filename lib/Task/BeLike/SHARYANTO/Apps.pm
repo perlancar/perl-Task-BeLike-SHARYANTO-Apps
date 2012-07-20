@@ -157,6 +157,8 @@ useful to me or people who use my applications.
 
 =pkg String::ShellQuote
 
+=pkg Taint::Util
+
 =pkg Term::ReadKey
 
 =pkg Term::ReadLine
